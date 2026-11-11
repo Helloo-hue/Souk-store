@@ -1,0 +1,14 @@
+{
+  "name": "marketplace",
+  "version": "2.0.0",
+  "description": "Marketplace multi-vendeurs : commission, séquestre, PayPal, paiements locaux, sécurité (zéro dépendance, Node 22.5+)",
+  "main": "server.js",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "seed": "node --no-warnings seed.js",
+    "test": "node --no-warnings --test \"tests/*.test.js\"",
+    "backup": "node --no-warnings backup.js",
+    "make-admin": "node --no-warnings make-admin.js"
+  }
+}

@@ -1,0 +1,7 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #f5f7fa; color: #14172e; }
+main { max-width: 420px; margin: 12vh auto; background: #fff; padding: 28px; border-radius: 14px; border: 1px solid #dde0ee; }
+.tag { background: #fdf0d5; color: #8a4b00; padding: 8px 12px; border-radius: 8px; font-size: .9rem; }
+h1 { font-size: 1.6rem; margin: 18px 0 6px; }
+a { display: block; text-align: center; padding: 12px; border-radius: 10px; text-decoration: none; font-weight: 700; margin-top: 12px; }
+.pay { background: #ffc439; color: #111; }
+.cancel { color: #2a3bcb; }
